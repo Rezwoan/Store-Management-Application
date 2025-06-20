@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS_\\Documents\\C# Project\\Store Management Application\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|c:\\users\\asus_\\documents\\c# project\\store management application\\store management application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|solutionrelative:store management application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|c:\\users\\asus_\\documents\\github\\store-management-application\\store management application\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|solutionrelative:store management application\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|c:\\users\\asus_\\documents\\c# project\\store management application\\store management application\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|solutionrelative:store management application\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|c:\\users\\asus_\\documents\\github\\store-management-application\\store management application\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|solutionrelative:store management application\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|C:\\Users\\ASUS_\\Documents\\C# Project\\Store Management Application\\store management application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|solutionrelative:store management application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|c:\\users\\asus_\\documents\\github\\store-management-application\\store management application\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|solutionrelative:store management application\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|c:\\users\\asus_\\documents\\github\\store-management-application\\store management application\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|solutionrelative:store management application\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|c:\\users\\asus_\\documents\\github\\store-management-application\\store management application\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|solutionrelative:store management application\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|c:\\users\\asus_\\documents\\github\\store-management-application\\store management application\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD747D8A-826D-48BB-963C-63C47BBCCE93}|Store Management Application\\Store Management Application.csproj|solutionrelative:store management application\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,38 +39,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS_\\Documents\\C# Project\\Store Management Application\\Store Management Application\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Store Management Application\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\ASUS_\\Documents\\C# Project\\Store Management Application\\Store Management Application\\Form1.Designer.cs",
-              "RelativeToolTip": "Store Management Application\\Form1.Designer.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAgwEwAAABsAAAAAAAAAA==",
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Store Management Application\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "Store Management Application\\AdminDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T11:22:18.556Z"
+              "WhenOpened": "2025-06-20T19:24:31.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS_\\Documents\\C# Project\\Store Management Application\\Store Management Application\\Form1.cs",
-              "RelativeDocumentMoniker": "Store Management Application\\Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS_\\Documents\\C# Project\\Store Management Application\\Store Management Application\\Form1.cs",
-              "RelativeToolTip": "Store Management Application\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Store Management Application\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\AdminDashboard.cs",
+              "RelativeToolTip": "Store Management Application\\AdminDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:33:23.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Store Management Application\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Store Management Application\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:22:18.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Store Management Application\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\LoginForm.cs",
+              "RelativeToolTip": "Store Management Application\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T10:22:22.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS_\\Documents\\C# Project\\Store Management Application\\Store Management Application\\Form1.cs",
-              "RelativeDocumentMoniker": "Store Management Application\\Form1.cs",
-              "ToolTip": "C:\\Users\\ASUS_\\Documents\\C# Project\\Store Management Application\\Store Management Application\\Form1.cs [Design]",
-              "RelativeToolTip": "Store Management Application\\Form1.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Store Management Application\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Store Management Application\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T10:20:37.134Z"
+              "WhenOpened": "2025-06-20T10:20:37.134Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Store Management Application\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS_\\Documents\\GitHub\\Store-Management-Application\\Store Management Application\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "Store Management Application\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:31:21.837Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

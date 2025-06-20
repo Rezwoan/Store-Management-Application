@@ -18,3 +18,25 @@ C:\Users\ASUS_\Documents\C# Project\Store Management Application\Store Managemen
 C:\Users\ASUS_\Documents\C# Project\Store Management Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.pdb
 C:\Users\ASUS_\Documents\C# Project\Store Management Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.genruntimeconfig.cache
 C:\Users\ASUS_\Documents\C# Project\Store Management Application\Store Management Application\obj\Debug\net8.0-windows\ref\Store Management Application.dll
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\bin\Debug\net8.0-windows\Store Management Application.exe
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\bin\Debug\net8.0-windows\Store Management Application.deps.json
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\bin\Debug\net8.0-windows\Store Management Application.runtimeconfig.json
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\bin\Debug\net8.0-windows\Store Management Application.dll
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\bin\Debug\net8.0-windows\Store Management Application.pdb
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\bin\Debug\net8.0-windows\MaterialSkin.dll
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.csproj.AssemblyReference.cache
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store_Management_Application.LoginForm.resources
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store_Management_Application.Properties.Resources.resources
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.csproj.GenerateResource.cache
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.AssemblyInfoInputs.cache
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.AssemblyInfo.cs
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.sourcelink.json
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Ma.DA14B5D2.Up2Date
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.dll
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\refint\Store Management Application.dll
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.pdb
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store Management Application.genruntimeconfig.cache
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\ref\Store Management Application.dll
+C:\Users\ASUS_\Documents\GitHub\Store-Management-Application\Store Management Application\obj\Debug\net8.0-windows\Store_Management_Application.AdminDashboard.resources

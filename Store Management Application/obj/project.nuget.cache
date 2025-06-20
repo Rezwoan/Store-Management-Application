@@ -6,12 +6,5 @@
   "expectedPackageFiles": [
     "C:\\Users\\ASUS_\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3-vulnerabilities/2025.06.19.23.42.10/vulnerability.base.json' timed out because no data was received for 60000ms."
-    }
-  ]
+  "logs": []
 }
